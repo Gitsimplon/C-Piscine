@@ -1,7 +1,7 @@
 
-var num1 = prompt(" Veuillez saisir la Premiere valeur:");
-var num2 = prompt("Veuillez saisir Deuxieme valeur:");
-var num3 = prompt("Veuillez saisir Troisieme valeur:");
+var num1 = 5;
+var num2 = 10;
+var num3 = 15;
 
 var result = (num1 * num2 * num3);
 console.log(eval(result));
